@@ -14,10 +14,11 @@
 	<array>
 		<dict>
 			<key>match</key>
-			<string>^\s*(\w+.+:\s*$\n?)</string>
+			<string>^\#\s*(\w+.+\s*$\n?)</string>
 			<key>name</key>
 			<string>keyword.control.header.Wiki</string>
 		</dict>
+
 		<dict>
 			<key>comment</key>
 			<string>Match WikiWords and make them into links.</string>
