@@ -1,5 +1,5 @@
-forked from [SublimeWiki][https://github.com/PogiNate/SublimeWiki]
+forked from http://github.com/PogiNate/SublimeWiki
 
-# changes made
-- wiki links: [[link]]
-- headers: # (matches any number of #), bold
+# major changes made
+1. wiki links: [[link]]
+2. headers: # (matches any number of #), bold
