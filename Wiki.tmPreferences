@@ -6,7 +6,7 @@
   <string>Wiki</string>
 
   <key>scope</key>
-  <string>keyword.control.header.Wiki, string.markup.underline.link.internal.Wiki</string>
+  <string>string.markup.underline.link.internal.Wiki</string>
   
   <key>settings</key>
   <dict>

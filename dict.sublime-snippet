@@ -2,16 +2,10 @@
 	<content><![CDATA[
 <dict>
 	<key>name</key>
-	<string>${1:italic|bold}</string>
+	<string>${1:italic|bold|header}</string>
 	<key>scope</key>
 	<string>markup.${1}</string>
 	<key>settings</key>
-	<dict>
-		<key>fontStyle</key>
-		<string>${1}</string>
-		<key>foreground</key>
-		<string>${2:#99CC99}</string>
-	</dict>
 </dict>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
